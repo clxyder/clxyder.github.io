@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+== Research
+
+I work in two labs the Power Systems Group with Dr. Mischa Steurer and in the Decision & Secure Systems lab with Dr. Moses Anubi.
+The unique position I am in allows me to grasp the intricacies of controls and numerical optimzation and apply it to the world of power systems.
+
+= Power Systems Group
+I am working on a reconfiguration algorithm for shipboard power systems, expanding the algorithm's capabilities and updating the shipboard power system models on digital real-time simulator RTDS.
+
+= Decision & Secure Systems
+
+Currently working on distributed fault tolerant controllers for space applications.
