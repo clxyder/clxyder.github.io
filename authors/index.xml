@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Carlos A. Wong</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Carlos A. Wong is currently a Graduate Research Assistant for the Center of Advanced Power Systems at Florida State University. He collaborates with Dr. Mischa Steurer researching shipboard power systems with a specfic interest in power-hardware-in-the-loop real-time simulations and fault protection systems with the Power Systems Group. He is currently pursuing a PhD under the supervision of Dr. Moses Anubi with the Decision &amp;amp; Secure Systems Group. His interests include optimization, distributed fault tolerant controller, and real-time systems.&lt;/p&gt;
+
+&lt;!-- I received my B.S. in computer engineering from FAMU-FSU College of Engineering. He is currently pursuing a PhD under the supervision of Dr. Moses Anubi with the Decision &amp; Secure Systems Group. I work very closing with Dr. Mischa Steurer researching shipboard power systems with a specfic interest in power-hardware-in-the-loop real-time simulations and fault protection systems. --&gt;
+
+&lt;!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Christopher Neuwirt</title>
+      <link>/authors/christopher-neuwirt/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/christopher-neuwirt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harsha Ravindra</title>
+      <link>/authors/harsha-ravindra/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/harsha-ravindra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean D.H. Haslwanter</title>
+      <link>/authors/jean-d.h.-haslwanter/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jean-d.h.-haslwanter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karl Schoder</title>
+      <link>/authors/karl-schoder/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/karl-schoder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Stanovich</title>
+      <link>/authors/mark-stanovich/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/mark-stanovich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mischa Steurer</title>
+      <link>/authors/mischa-steurer/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/mischa-steurer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
