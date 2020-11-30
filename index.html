@@ -380,6 +380,21 @@
         
         
         
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://scholar.google.com/citations?user=M5UnCeoAAAAJ" target="_blank" rel="noopener">
+            <i class="ai ai-google-scholar big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
           
         
         
@@ -418,9 +433,9 @@
     
     <h1>Biography</h1>
 
-    <p>Carlos A. Wong is a Graduate Research Assistant for the Center of Advanced Power Systems at Florida State University. He collaborates with <a href="https://www.caps.fsu.edu/about-caps/caps-personnel/michael-steurer/" target="_blank">Dr. Mischa Steurer</a> researching shipboard power systems with a specfic interest in power-hardware-in-the-loop real-time simulations and fault protection systems with the Power Systems Group. He is currently pursuing a PhD under the supervision of <a href="https://ww2.eng.famu.fsu.edu/~anubi/" target="_blank">Dr. Moses Anubi</a> with the Decision &amp; Secure Systems Group.</p>
+    <p>Carlos A. Wong is a Graduate Research Assistant for the Center of Advanced Power Systems at Florida State University. He collaborates with <a href="https://www.caps.fsu.edu/about-caps/caps-personnel/michael-steurer/" target="_blank">Dr. Mischa Steurer</a> researching shipboard power systems with a specfic interest in control hardware-in-the-loop (CHIL) real-time simulations and fault protection systems for notional shipboard power systems with the Power Systems Group. He has collaborated extensively with <a href="http://eng-web1.eng.famu.fsu.edu/~anubi/" target="_blank">Dr. Moses Anubi</a> and the Decision &amp; Secure Systems Group to develop resilient control algorithms.</p>
 
-<!-- His interests include optimization, distributed fault tolerant controller, and real-time systems. -->
+<p>He recently defended this <a href="#accomplishments">master&rsquo;s thesis</a>.</p>
 
 
     <div class="row">
@@ -430,13 +445,13 @@
         <h3>Interests</h3>
         <ul class="ul-interests">
           
-          <li>Convex Optimization</li>
+          <li>Modeling and simulation</li>
           
-          <li>Fault Tolerant Systems</li>
-          
-          <li>Distributed Controller</li>
+          <li>Control development</li>
           
           <li>Real-time Systems</li>
+          
+          <li>System Engineering principles</li>
           
         </ul>
       </div>
@@ -446,14 +461,6 @@
       <div class="col-md-7">
         <h3>Education</h3>
         <ul class="ul-edu fa-ul">
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">PhD in Electrical Engineering, 2022</p>
-              <p class="institution">Florida State University</p>
-            </div>
-          </li>
           
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
@@ -666,8 +673,11 @@
             <div class="card-text">Responsibilities include:</p>
 
 <ul>
-<li>Developing a Health Management System for the next generation shipboard power systems</li>
-<li>Verification and validation of expert controlled hardware with MATLAB scripts</li>
+<li>Designed and developed a signal interface in Python and its interface control document (ICD) to ease the control development process by enabling controllers to interact with a low-fidelity model and a real-time high-fidelity simulation environment by using User Datagram Protocol (UDP).</li>
+<li>Performed requirement analysis and documented functional, performance, and interface requirements for a fault management approach of a notional shipboard power system.</li>
+<li>Developed a control algorithm to recover a notional shipboard power system from an electrical fault, with a worst-case runtime of 87 milliseconds, by leveraging <a href="https://www.caps.fsu.edu/about-caps/real-time-digital-simulator/" target="_blank">real-time simulators</a>, control hardware-in-the-loop (CHIL), and test-driven development.</li>
+<li>Evaluated algorithm performance with a test automation framework that coordinates real-time simulation &amp; control hardware, and automated evaluation of test results with the use of metrics.</li>
+<li>Designed electrical signal conditioning PCBs, created MATLAB scripts to auto-populate results for a Factory Acceptance Test (FAT), and used Modbus protocol to communicate between proprietary hardware and a real-time simulator, while working in an expert controlled environment.</li>
 <li>Organization and leading of student meetings
 <br /></li>
 </ul></div>
@@ -707,7 +717,7 @@
                 <span>Florida</span>
               
             </div>
-            <div class="card-text">Implemented a system of ODEs in conjunction with the Newton Raphson method in C++ to model &amp; simulate the charge and discharge characteristics of Li-S batteries, with the goal to reduce the transport shuttling effect.</div>
+            <div class="card-text">Simulated a system of ODEs with the Newton Raphson method in C++ to reduce the transport shuttling effect during charge and discharge cycles of Lithium Sulfur batteries.</div>
           </div>
         </div>
       </div>
@@ -744,11 +754,88 @@
                 <span>Florida</span>
               
             </div>
-            <div class="card-text">Organizing and managing HMI programs with Siemen&rsquo;s APOGEE Building Automation Software to be accessible by the Field Technicians, Engineers and the Florida State University management.</div>
+            <div class="card-text">Responsibilities:</p>
+
+<ul>
+<li>Organized and managed HMI programs with Siemen&rsquo;s APOGEE Building Automation Software to be accessible by the Field Technicians, Engineers, and the Florida State University management.</li>
+<li>Programmed enhanced alarms for fault detection purposes that require temperature sensitive research environments, producing a safe contingency plan for the researcher environment.</li>
+</ul></div>
           </div>
         </div>
       </div>
     </div>
+    
+    
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="accomplishments" class="home-section wg-accomplishments   "  >
+    <div class="container">
+      
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Accomplishments</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+    
+      <div class="card experience course">
+        <div class="card-body"><a href="/files/wong_thesis.pdf" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">An adaptable signal interface to enable a fault management development process for a medium voltage dc microgrid</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.eng.famu.fsu.edu/" target="_blank" rel="noopener">Florida State University: FAMU-FSU College of Engineering</a><span class="middot-divider"></span>
+
+            Nov 2020
+            
+          </div>
+
+          
+            <div class="card-text">He successfully defended his master&rsquo;s thesis.</div>
+          
+
+          
+            <a class="card-link" href="https://www.eng.famu.fsu.edu/event/thesis/wong" target="_blank" rel="noopener">
+              See certificate
+            </a>
+          
+        </div>
+      </div>
     
     
   </div>
@@ -871,7 +958,7 @@
   
 
   <p class="powered-by">
-    Carlos A. Wong &copy; 2019 &middot; 
+    Carlos A. Wong &copy; 2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
