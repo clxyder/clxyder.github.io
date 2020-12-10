@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Carlos A. Wong © 2019</copyright><lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Carlos A. Wong © 2020</copyright><lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,12 +15,36 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Carlos A. Wong is a Graduate Research Assistant for the Center of Advanced Power Systems at Florida State University. He collaborates with &lt;a href=&#34;https://www.caps.fsu.edu/about-caps/caps-personnel/michael-steurer/&#34; target=&#34;_blank&#34;&gt;Dr. Mischa Steurer&lt;/a&gt; researching shipboard power systems with a specfic interest in power-hardware-in-the-loop real-time simulations and fault protection systems with the Power Systems Group. He is currently pursuing a PhD under the supervision of &lt;a href=&#34;https://ww2.eng.famu.fsu.edu/~anubi/&#34; target=&#34;_blank&#34;&gt;Dr. Moses Anubi&lt;/a&gt; with the Decision &amp;amp; Secure Systems Group.&lt;/p&gt;
+      <description>&lt;p&gt;Carlos A. Wong is a Graduate Research Assistant for the Center of Advanced Power Systems at Florida State University. He collaborates with &lt;a href=&#34;https://www.caps.fsu.edu/about-caps/caps-personnel/michael-steurer/&#34; target=&#34;_blank&#34;&gt;Dr. Mischa Steurer&lt;/a&gt; researching shipboard power systems with a specfic interest in control hardware-in-the-loop (CHIL) real-time simulations and fault protection systems for notional shipboard power systems with the Power Systems Group. He has collaborated extensively with &lt;a href=&#34;http://eng-web1.eng.famu.fsu.edu/~anubi/&#34; target=&#34;_blank&#34;&gt;Dr. Moses Anubi&lt;/a&gt; and the Decision &amp;amp; Secure Systems Group to develop resilient control algorithms.&lt;/p&gt;
 
-&lt;!-- His interests include optimization, distributed fault tolerant controller, and real-time systems. --&gt;
+&lt;p&gt;He recently defended his &lt;a href=&#34;#accomplishments&#34;&gt;master&amp;rsquo;s thesis&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Charalambos Konstantinou</title>
+      <link>/authors/charalambos-konstantinou/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/charalambos-konstantinou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olugbenga Moses Anubi</title>
+      <link>/authors/olugbenga-moses-anubi/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/olugbenga-moses-anubi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satish Vedula</title>
+      <link>/authors/satish-vedula/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/satish-vedula/</guid>
+      <description></description>
     </item>
     
     <item>

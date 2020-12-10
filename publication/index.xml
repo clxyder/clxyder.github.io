@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Carlos A. Wong © 2019</copyright><lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Carlos A. Wong © 2020</copyright><lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>An adaptable signal interface to enable a fault management development process for a medium voltage DC microgrid</title>
+      <link>/publication/an_adaptable_signal_interface_to_enable_a_fault_management_development_process_for_a_medium_voltage_dc_microgrid/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/an_adaptable_signal_interface_to_enable_a_fault_management_development_process_for_a_medium_voltage_dc_microgrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Model Resilient Observer under False Data Injection Attacks</title>
+      <link>/publication/multi-model_resilient_observer_under_false_data_injection_attacks/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/multi-model_resilient_observer_under_false_data_injection_attacks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Tree-Based Reconfiguration Algorithm for Zonal Shipboard Power Systems</title>
